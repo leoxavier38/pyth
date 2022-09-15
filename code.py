@@ -2,11 +2,11 @@
 # number in a list
 
 # list of numbers
-list1 = [10, 20, 4, 38, 99]
+list = [10, 20, 4, 38, 99]
 
 # sorting the list
-list1.sort()
+list.sort()
 
 # printing the last element
-print("Largest element is:", list1[-1])
+print("Largest element is:", list[-1])
 
